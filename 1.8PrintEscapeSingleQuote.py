@@ -1,0 +1,6 @@
+print("A 'single quote' inside a double quote")
+print('A "double quote" inside a single quote')
+print("Alternatively you can just \"escape\" the quote")
+print("She said \"there are two ways around this\"")
+print("One way is by using an \"escape\" with 2 backslashes to tell the program something is not code")
+print('she also said "Another way is by using single quotes for your string and double where you need them"')
